@@ -1,0 +1,24 @@
+{
+  "name": "odin_battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-johnson03/Odin_BattleShip.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jay-johnson03/Odin_BattleShip/issues"
+  },
+  "homepage": "https://github.com/jay-johnson03/Odin_BattleShip#readme"
+}
